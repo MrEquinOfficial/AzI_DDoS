@@ -19,5 +19,5 @@ python3 aziddos.py
 
 Bundan sonra rahat və asan interfeysdən seçimlərinizi edərək tooldan tam istifadə edə bilərsiniz :)
 
-![alt text](https://github.com/MrEquinOfficial/AzI_DDoS/blob/main/picture2.png?raw=true)
 ![alt text](https://github.com/MrEquinOfficial/AzI_DDoS/blob/main/picture3.png?raw=true)
+![alt text](https://github.com/MrEquinOfficial/AzI_DDoS/blob/main/picture2.png?raw=true)
