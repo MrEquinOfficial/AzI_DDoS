@@ -6,8 +6,14 @@ AzI DDoS Serverlərə, Veb-Saytlara istənilən Domainə yüzlərlə paketi sani
 Yüklədikdən sonra terminal üzərindən :
 ```
 cd AzI_DDoS
+```
+```
 chmod +x install.sh
-./install.sh və ya bash install.sh və ya sh install.sh
+```
+```
+./install.sh
+```
+```
 python3 aziddos.py
 ```
 Bundan sonra rahat və asan interfeysdən seçimlərinizi edərək tooldan tam istifadə edə bilərsiniz :)
